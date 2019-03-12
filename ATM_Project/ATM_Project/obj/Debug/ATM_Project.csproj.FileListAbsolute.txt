@@ -1,0 +1,15 @@
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\bin\Debug\ATM_Project.exe.config
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\bin\Debug\ATM_Project.exe
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\bin\Debug\ATM_Project.pdb
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.csprojAssemblyReference.cache
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\App.g.cs
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project_MarkupCompile.cache
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project_MarkupCompile.lref
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\MainWindow.baml
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.g.resources
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.Properties.Resources.resources
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.csproj.GenerateResource.cache
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.exe
+C:\Users\Joshua Kathriner\Desktop\College Stuff\Git_Workspace\CS-161-Project\ATM_Project\ATM_Project\obj\Debug\ATM_Project.pdb

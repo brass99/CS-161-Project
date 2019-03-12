@@ -5,8 +5,49 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ATM_Project"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="480" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="74*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="FirstButton"
+                Content="card_One" 
+                Margin="84,10,4,379"
+                Click="FirstButton_Click" Grid.Column="1"/>
+        <Button x:Name="SecondButton"
+                Content="card_Two" Margin="84,75,4,314"
+                Click="SecondButton_Click" Grid.Column="1"/>
+        <Button x:Name="ThirdButton"
+                Content="card_Three" Margin="84,140,4,249"
+                Click="ThirdButton_Click" Grid.Column="1"/>
+        <Button x:Name="FourthButton"
+                Content="card_Four" Margin="84,205,4,184"
+                Click="FourthButton_Click" Grid.Column="1"/>
+        <Button x:Name="FifthButton"
+                Content="card_Five" Margin="84,270,4,119"
+                Click="FifthButton_Click" Grid.Column="1"/>
+
+        <TextBox x:Name="TestingBox"
+                Text="Testing" 
+                Margin="255,211,249,217"
+                 TextAlignment="Center"/>
+
+        <TextBlock x:Name="PinTitle"
+                   Text="Please Enter Your PIN" Margin="243,140,236,289"/>
+
+        <TextBox x:Name="KeyBox" Margin="255,165,249,264"
+                KeyDown="keyDown"
+                 TextAlignment="Center"/>
+
+        <Button x:Name="StartButton"
+                Content="Begin" 
+                RenderTransformOrigin="0.33,2.067" 
+                Margin="34,352,470,37"
+                Click="Begin"/>
+
+        <Button x:Name="TesterButton"
+                Content="Info File Test"
+                Click="Tester_Click" Margin="34,165,470,224"/>
     </Grid>
 </Window>
