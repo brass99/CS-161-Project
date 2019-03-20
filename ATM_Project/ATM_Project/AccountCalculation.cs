@@ -2,7 +2,7 @@
 
 namespace Classes
 {
-    public class AccountCalculations //Will do calculations for withdrawels
+    public class AccountCalculations //Will do calculations for withdrawels and deposits
     {
 
         string TestTwo = "Calc connected";

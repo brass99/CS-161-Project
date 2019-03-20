@@ -30,13 +30,13 @@
 
         <TextBox x:Name="TestingBox"
                 Text="Testing" 
-                Margin="255,211,249,217"
+                Margin="255,211,249,209"
                  TextAlignment="Center"/>
 
         <TextBlock x:Name="PinTitle"
-                   Text="Please Enter Your PIN" Margin="243,140,236,289"/>
+                   Text="Please Enter Your PIN" Margin="243,140,236,284"/>
 
-        <TextBox x:Name="KeyBox" Margin="255,165,249,264"
+        <TextBox x:Name="KeyBox" Margin="255,165,249,258"
                 KeyDown="keyDown"
                  TextAlignment="Center"/>
 

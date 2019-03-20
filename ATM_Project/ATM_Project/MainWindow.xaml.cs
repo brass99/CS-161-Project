@@ -39,15 +39,13 @@ namespace ATM_Project
             Classes.Information File = new Classes.Information();
             
             var UserOne = Classes.Information.AccountCreation("John", "Doe", "1234", "5000");
-            
         }
 
         private void Tester_Click(object sender, RoutedEventArgs e)//Reads typed text in box
         {            
             Classes.Information Lock = new Classes.Information();
 
-            var UserOne = Classes.Information.AccountCreation("John", "Doe", "1234", "5000");
-            var UserTwo = Classes.Information.AccountCreation("Dave", "Par", "2345", "5000");
+            var UserOne = Classes.Information.AccountCreation("John", "Doe", "1234", "5000");           
 
             string PIN = KeyBox.Text;
             
